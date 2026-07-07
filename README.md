@@ -1,2 +1,10 @@
-# Exposici-n-Final-SISOPE
-Aquí se aloja la evidencia de proyecto final de SISOPE
+# Exposición Final
+
+Este repositorio contiene el video correspondiente a la exposición final del proyecto.
+
+## Contenido
+
+- 📹 Video de la exposición final.
+- 📄 Documentación complementaria (opcional).
+
+Autor: Alex Chávez
