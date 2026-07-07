@@ -7,4 +7,4 @@ Este repositorio contiene el video correspondiente a la exposición final del pr
 - 📹 Video de la exposición final.
 - 📄 Documentación complementaria (opcional).
 
-Autor: Alex Chávez
+Autor: Royer Díaz Montoya
